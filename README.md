@@ -5,7 +5,6 @@
 >Stack used Next.js, Chakra-UI, Hardhat, Rainbow Wallet, Wagmi 🚀
 >Networks: Goerli, Sepolia, Mumbai
 Astar shibuya Testnet
-<img width="733" alt="スクリーンショット 2023-06-16 17 11 09" src="https://github.com/KamakuraDAO/test03/assets/31527310/96be47cf-572c-44ed-8d18-fea5534d5220">
 
 # 🏄‍♂️ Quick Start
 
