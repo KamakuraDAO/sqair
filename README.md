@@ -1,4 +1,3 @@
-
 # 🦄 概要
 「町の一部になるアイデア」 観光客、住民にイベントで公共施設に使われる物品を一緒につくり、それをNFT化していく。たとえば、街中にあるタイル。みんなで参加するアートとしても良さそう。 そのNFTはいずれ市民権のようなNFTになって、遠くに住んでいても、デジタル市民としての権限が与えられる。
 
@@ -44,9 +43,3 @@ https://mumbai.polygonscan.com/address/0x2Ae44Ed6b7991DCC26C07dDfdFfeCceFeF1b02E
 
 # 🚪 UI/UX
 https://www.figma.com/proto/zqvt1HymVa2cqjAW9TYCtO/Crypto-Trading-App-UI-Kit-(Community)?type=design&node-id=146-2354&scaling=scale-down&page-id=146%3A10&starting-point-node-id=146%3A2354
-
-# 🚪 トークンエコノミクス
-<img width="748" alt="スクリーンショット 2023-06-20 15 17 45" src="https://github.com/KamakuraDAO/sqair-test/assets/31527310/047e5e44-6385-4d5d-bf1f-2390295ab61e">
-
-
-
