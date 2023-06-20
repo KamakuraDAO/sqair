@@ -9,7 +9,7 @@
 このプロジェクトを使用するには以下の手順を実行します：
 
 ```bash
-git clone [[リポジトリのURL]](https://github.com/KamakuraDAO/test01)
+git clone [[リポジトリのURL]](https://github.com/KamakuraDAO/aqair)
 cd test2
 pip install -r requirements.txt
 python main.py
