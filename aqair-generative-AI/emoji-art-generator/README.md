@@ -1,5 +1,5 @@
 # Emoji Art Generator
-アイコンから特定の絵を生成いたします。
+アイコンから特定の絵を生成いたします。  
 ![evolution1 (1)](https://github.com/KamakuraDAO/sqair/assets/31527310/1df7359a-e214-43dc-87f5-70b5c93e6837)
 
 # Setup
