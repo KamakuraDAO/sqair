@@ -2,9 +2,8 @@
 「町の一部になるアイデア」 観光客、住民にイベントで公共施設に使われる物品を一緒につくり、それをNFT化していく。たとえば、街中にあるタイル。みんなで参加するアートとしても良さそう。 そのNFTはいずれ市民権のようなNFTになって、遠くに住んでいても、デジタル市民としての権限が与えられる。
 
 # 💻 Stack
->Stack used Next.js, Chakra-UI, Hardhat, Rainbow Wallet, Wagmi 🚀
->Networks: Goerli, Sepolia, Mumbai
-Astar shibuya Testnet
+Next.js, Chakra-UI, Hardhat, Rainbow Wallet, Wagmi 🚀  
+Networks: Polygon Mumbai, Astar shibuya Testnet  
 
 # 🏄‍♂️ Quick Start
 
@@ -37,7 +36,7 @@ yarn dev
  
  >📣  Deployed Contracts
 https://mumbai.polygonscan.com/address/0x2Ae44Ed6b7991DCC26C07dDfdFfeCceFeF1b02E9#code 
-
+https://blockscout.com/shibuya/address/0xE4Ed6B7A8Cb49A7C9F0c1bb678A274c03cff5Af1
 <hr/>
 
 # 🚪 UI/UX
