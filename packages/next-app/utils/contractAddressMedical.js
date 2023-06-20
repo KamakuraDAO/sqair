@@ -1,0 +1,1 @@
+export const MedicalAddress = "0x49D370fb67394FBCB55b0A7bde975b9D0ad0D192"
